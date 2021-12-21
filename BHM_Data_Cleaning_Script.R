@@ -1,5 +1,3 @@
-#The Birmingham homicide data repository is full of information, but the data published online has differences from year to year. In order to be able to analyze this data across time, cleaning and wrangling is required. 
-
 ##Install Packages
 library(readxl)
 library(tidyverse)
