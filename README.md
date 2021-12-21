@@ -1,2 +1,2 @@
-# birmingham_crime_project
-This is a repository for the data wrangling performed on the Birmingham homicide data 
+# Birmingham Homicide Data Project
+This is a repository for the data wrangling performed on the Birmingham homicide data. 
